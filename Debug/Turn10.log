@@ -1,0 +1,5 @@
+﻿  Input.cpp
+  Turn10.cpp
+  Generating Code...
+C:\Users\Logan\source\repos\Turn10\Turn10\Input.cpp(60): warning C4715: 'InputHandler::ConvertOperation': not all control paths return a value
+  Turn10.vcxproj -> C:\Users\Logan\source\repos\Turn10\Debug\Turn10.exe
